@@ -4,9 +4,9 @@ This is the python based web app. Major technology used : Flask
 Step 1: Installation
 
 # clone the repo
-$ git clone https://github.com/Ak500k/Passwd-Manager.git
-# change the working directory to Passwd-Manager
-$ cd Passwd-Manager
+$ git clone https://github.com/rajushikha111/python_webapp.git
+# change the working directory to python_webapp
+$ cd python_webapp
 
 # install the requirements
 $ python3 -m pip install -r requirements.txt
